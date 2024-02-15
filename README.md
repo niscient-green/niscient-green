@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @niscient0 [Nick Hofmeister]
-- 👀 I’m interested in software that drives hardware, wood working, BMW e46 m3's, building things from scratch
-- 🌱 I’m currently learning Python, C++, Kyria, Ubuntu
-- 💞️ I’m looking to collaborate on sit/stand height sensing desk, Kyria builds
-- 📫 How to reach me nhofmeister@gmail.com
+- 👋 Hi, I'm Nick Hofmeister
+- 👀 interested in software that drives hardware, wood working, BMW e46 m3's, building things from scratch
+- 🌱 currently learning Python, VSCode
+- 💞️ looking to collaborate on kyria splitkb
 
 <!---
 niscient0/niscient0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
