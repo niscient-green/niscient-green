@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Nick Hofmeister
 - 👀 interested in software that drives hardware, wood working, BMW e46 m3's, building things from scratch
-- 🌱 currently learning Python, VSCode
+- 🌱 currently learning Python, VSCode, QMK, Raspberry Pi, Git
 - 💞️ looking to collaborate on kyria splitkb
 
 <!---
